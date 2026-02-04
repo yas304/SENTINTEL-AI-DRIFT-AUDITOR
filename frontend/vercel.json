@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm cache clean --force && npm i -g vite && npm install && npm run build",
+  "outputDirectory": "dist"
+}
